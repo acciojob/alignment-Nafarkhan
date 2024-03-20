@@ -20,5 +20,10 @@
 	.t3 {
 			text-align: right;
 		}
-
+	.green {
+			background-color: green;
+		}
+	.blue {
+			background-color: blue;
+		}
        
